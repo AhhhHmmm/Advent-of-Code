@@ -1,0 +1,41 @@
+lf AND lq -> ls
+iu RSHIFT 1 -> jn
+bo OR bu -> bv
+gj RSHIFT 1 -> hc
+et RSHIFT 2 -> eu
+bv AND bx -> by
+is OR it -> iu
+b OR n -> o
+gf OR ge -> gg
+NOT kt -> ku
+ea AND eb -> ed
+kl OR kr -> ks
+hi AND hk -> hl
+au AND av -> ax
+lf RSHIFT 2 -> lg
+dd RSHIFT 3 -> df
+eu AND fa -> fc
+df AND dg -> di
+ip LSHIFT 15 -> it
+NOT el -> em
+et OR fe -> ff
+fj LSHIFT 15 -> fn
+t OR s -> u
+ly OR lz -> ma
+ko AND kq -> kr
+NOT fx -> fy
+et RSHIFT 1 -> fm
+eu OR fa -> fb
+dd RSHIFT 2 -> de
+NOT go -> gp
+kb AND kd -> ke
+hg OR hh -> hi
+jm LSHIFT 1 -> kg
+NOT cn -> co
+jp RSHIFT 2 -> jq
+jp RSHIFT 5 -> js
+1 AND io -> ip
+eo LSHIFT 15 -> es
+1 AND jj -> jk
+g AND i -> j
+ci RSHIFT 3 -> ck
